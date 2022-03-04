@@ -1,6 +1,6 @@
 # Insurance API #
 
-A customer has recently purchased Travel Insurance from an Insurance Company MyInsuranceUK. There is an online Portal which allows the customer to:
+A customer has recently purchased Travel Insurance from an Insurance Company. There is an online Portal which allows the customer to:
 * View basic details about the Insurance Policy
 * View all existing Claims that have been raised
 * Raise a new Claim
